@@ -1,5 +1,5 @@
 
-![Header]([https://github.com/ashishphulara/ashishphulara/blob/main/banner.png])
+![logo]([https://github.com/ashishphulara/ashishphulara/blob/main/banner.png])
 <h1 align="center">Hi 👋, I'm Ashish Phulara</h1>
 <h3 align="center">A passionate fullstack developer from India.</h3>
 
