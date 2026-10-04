@@ -1,4 +1,4 @@
-![logo](https://github.com/ashishphulara/ashishphulara/blob/main/banner.png)
+![logo](https://github.com/ashishphulara/ashishphulara/blob/main/image1.png)
 
 <h1 align="center">Hi 👋, I'm Ashish Phulara</h1>
 <h3 align="center">Full-Stack Developer | Cloud & DevOps Enthusiast from India</h3>
